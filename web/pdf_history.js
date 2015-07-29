@@ -16,7 +16,6 @@
  */
 /* globals PDFJS, PresentationMode */
 
-'use strict';
 
 var PDFHistory = {
   initialized: false,

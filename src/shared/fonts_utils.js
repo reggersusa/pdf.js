@@ -17,7 +17,6 @@
 /* globals CFFDictDataMap, CFFDictPrivateDataMap, CFFEncodingMap, CFFStrings,
            Components, Dict, dump, error, isNum, netscape, Stream */
 
-'use strict';
 
 /*
  * The Type2 reader code below is only used for debugging purpose since Type2

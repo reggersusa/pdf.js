@@ -16,7 +16,6 @@
  */
 /* globals scrollIntoView, HandTool, PDFViewerApplication */
 
-'use strict';
 
 var DELAY_BEFORE_HIDING_CONTROLS = 3000; // in ms
 var SELECTOR = 'presentationControls';

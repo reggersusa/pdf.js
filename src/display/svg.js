@@ -17,7 +17,6 @@
 /* globals PDFJS, FONT_IDENTITY_MATRIX, IDENTITY_MATRIX, isArray,
            isNum, OPS, Promise, Util, warn, ImageKind, PDFJS */
 
-'use strict';
 
 //#if (GENERIC || SINGLE_FILE)
 var SVG_DEFAULTS = {

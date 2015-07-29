@@ -15,7 +15,6 @@
  * limitations under the License.
  */
 
-'use strict';
 
 var CFFEncodingMap = {
   '0': '-reserved-',

@@ -17,7 +17,6 @@
 /* globals PDFJS, shadow */
 /* jshint -W043 */
 
-'use strict';
 
 var WebGLUtils = (function WebGLUtilsClosure() {
   function loadShader(gl, code, shaderType) {

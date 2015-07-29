@@ -17,7 +17,6 @@
 /* globals PDFJS, shadow, isWorker, assert, warn, bytesToString, string32, 
            globalScope, FontFace, Promise */
 
-'use strict';
 
 PDFJS.disableFontFace = false;
 

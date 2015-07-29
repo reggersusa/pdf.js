@@ -16,7 +16,6 @@
  */
  /* globals PDFJS, Util */
 
-'use strict';
 
 // List of shared files to include;
 var sharedFiles = [

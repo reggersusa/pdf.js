@@ -21,7 +21,6 @@
            loadJpegStream, createScratchCanvas, CanvasGraphics, stringToBytes,
            UnexpectedResponseException */
 
-'use strict';
 
 /**
  * The maximum allowed image size in total pixels e.g. width * height. Images

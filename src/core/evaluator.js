@@ -25,7 +25,6 @@
            IDENTITY_MATRIX, reverseIfRtl, createPromiseCapability,
            getFontType */
 
-'use strict';
 
 var PartialEvaluator = (function PartialEvaluatorClosure() {
   function PartialEvaluator(pdfManager, xref, handler, pageIndex,

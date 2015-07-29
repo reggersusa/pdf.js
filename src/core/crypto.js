@@ -17,7 +17,6 @@
 /* globals bytesToString, DecryptStream, error, isInt, isName, Name,
            PasswordException, PasswordResponses, stringToBytes */
 
-'use strict';
 
 var ARCFourCipher = (function ARCFourCipherClosure() {
   function ARCFourCipher(key) {

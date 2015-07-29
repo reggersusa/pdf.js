@@ -21,7 +21,6 @@
            MissingDataException, Promise, Annotation, ObjectLoader, OperatorList
            */
 
-'use strict';
 
 var Page = (function PageClosure() {
 

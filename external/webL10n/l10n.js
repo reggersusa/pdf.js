@@ -27,7 +27,6 @@
 */
 
 /*jshint browser: true, devel: true, globalstrict: true */
-'use strict';
 
 document.webL10n = (function(window, document, undefined) {
   var gL10nData = {};

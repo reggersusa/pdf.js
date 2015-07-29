@@ -17,7 +17,6 @@
 /* globals CanvasGraphics, CachedCanvases, ColorSpace, Util, error, info,
            isArray, makeCssRgb, WebGLUtils */
 
-'use strict';
 
 var ShadingIRs = {};
 

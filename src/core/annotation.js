@@ -18,7 +18,6 @@
            stringToBytes, assert, Promise, isArray, ObjectLoader, OperatorList,
            isValidUrl, OPS, createPromiseCapability, AnnotationType */
 
-'use strict';
 
 var DEFAULT_ICON_SIZE = 22; // px
 var SUPPORTED_TYPES = ['Link', 'Text', 'Widget'];

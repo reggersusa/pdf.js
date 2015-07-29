@@ -16,7 +16,6 @@
  * limitations under the License.
  */
 
-'use strict';
 
 var Metadata = PDFJS.Metadata = (function MetadataClosure() {
   function fixMetadata(meta) {

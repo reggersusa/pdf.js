@@ -16,7 +16,6 @@
  */
 /* globals PDFJS, Util, AnnotationType */
 
-'use strict';
 
 var ANNOT_MIN_SIZE = 10; // px
 
